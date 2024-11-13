@@ -4,7 +4,7 @@ const save = document.getElementById("save");
 const clear = document.getElementById("clear");
 const basket = document.getElementById("basket");
 
-//Local Storaage har tre metoder setItem, getItem, clear
+//Local Storaage har tre metoder setItem, getItem, clear, removeItem
 
 // Kundkorgs-array som är tom från början
 let shoppingBasket = [];
